@@ -38,7 +38,7 @@
  <a href="https://twitter.com/omkar_jadhav" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/ceasar_chipher" target="_blank">
+ <a href="https://instagram.com/ceasar_chipher69" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://facebook.com/omkar_jadhav" target="_blank">
